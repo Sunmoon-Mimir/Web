@@ -1,4 +1,4 @@
-![img](D:\Documents\weixinobU7Vjg9-wbUruF5-OMFZVFPJ8HQ\c5beaaea2c4d4f22a934e9bd99e20c20\clipboard.png)
+![img](C:\Users\Administrator\Desktop\Web\vue.js\clipboard.png)
 
 什么是渐进式框架？
 
